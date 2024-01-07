@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m recently completed MCA from ... University Of Hyderabad
+- 🔭 I’m MCA Graduate from ... University Of Hyderabad
 - 🌱 I’m currently learning ... Networking
 - 👯 I’m looking to collaborate on ... many Open Source Project
 - 💬 Ask me about ... Anything
