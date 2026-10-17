@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad%20Naik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariniprasadnaik/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF)](https://github.com/tariniprasadtpn3)
 
 </div>
 
